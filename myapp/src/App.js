@@ -1,5 +1,5 @@
 import './App.css';
-import Childcom from './childcom';
+import Childcom from './Childcom';
 import { useState } from 'react';
 
 
